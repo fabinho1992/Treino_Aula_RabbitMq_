@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Aula_RabbitMq_MassTransit.Controllers.CustomerController",
+    "Method": "Post",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pessoa",
+        "Type": "Aula_RabbitMq.Model.Pessoa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

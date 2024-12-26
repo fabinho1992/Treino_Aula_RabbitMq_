@@ -3,28 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq\\bus\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|solutionrelative:aula_rabbitmq\\bus\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5636C6E5-4002-491E-BC5B-F55F1A18F124}|Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_lmasstransit_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5636C6E5-4002-491E-BC5B-F55F1A18F124}|Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj|solutionrelative:aula_rabbitmq_lmasstransit_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq\\controllers\\costumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|solutionrelative:aula_rabbitmq\\controllers\\costumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_masstransit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|solutionrelative:aula_rabbitmq_masstransit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq\\bus\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|solutionrelative:aula_rabbitmq\\bus\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_masstransit\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|solutionrelative:aula_rabbitmq_masstransit\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|solutionrelative:aula_rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5636C6E5-4002-491E-BC5B-F55F1A18F124}|Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_lmasstransit_consumer\\service\\clienteregistrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5636C6E5-4002-491E-BC5B-F55F1A18F124}|Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj|solutionrelative:aula_rabbitmq_lmasstransit_consumer\\service\\clienteregistrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|solutionrelative:aula_rabbitmq\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5636C6E5-4002-491E-BC5B-F55F1A18F124}|Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_lmasstransit_consumer\\aula_rabbitmq_lmasstransit_consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5636C6E5-4002-491E-BC5B-F55F1A18F124}|Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj|solutionrelative:aula_rabbitmq_lmasstransit_consumer\\aula_rabbitmq_lmasstransit_consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq\\aula_rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}|Aula_RabbitMq\\Aula_RabbitMq.csproj|solutionrelative:aula_rabbitmq\\aula_rabbitmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\f3ba468a-4e0f-4b9a-b6cd-4afda24780c0\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\c9644189-f98f-4527-8185-32f01407adbb\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_masstransit\\service\\masstransitbusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|solutionrelative:aula_rabbitmq_masstransit\\service\\masstransitbusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_masstransit\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|solutionrelative:aula_rabbitmq_masstransit\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\aulas_rabbitmq\\aula_rabbitmq\\aula_rabbitmq_masstransit\\service\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C13100-CB01-4A20-B033-99029DCFEEA5}|Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj|solutionrelative:aula_rabbitmq_masstransit\\service\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +48,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CostumerController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Controllers\\CostumerController.cs",
-              "RelativeDocumentMoniker": "Aula_RabbitMq\\Controllers\\CostumerController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Controllers\\CostumerController.cs",
-              "RelativeToolTip": "Aula_RabbitMq\\Controllers\\CostumerController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:48:50.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Model\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Aula_RabbitMq\\Model\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Model\\Pessoa.cs",
-              "RelativeToolTip": "Aula_RabbitMq\\Model\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:45:51.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Program.cs",
-              "RelativeDocumentMoniker": "Aula_RabbitMq\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Program.cs",
-              "RelativeToolTip": "Aula_RabbitMq\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:32:59.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RabbitMqService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Bus\\RabbitMqService.cs",
-              "RelativeDocumentMoniker": "Aula_RabbitMq\\Bus\\RabbitMqService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Bus\\RabbitMqService.cs",
-              "RelativeToolTip": "Aula_RabbitMq\\Bus\\RabbitMqService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:03:50.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IRabbitMqService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Bus\\IRabbitMqService.cs",
-              "RelativeDocumentMoniker": "Aula_RabbitMq\\Bus\\IRabbitMqService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Bus\\IRabbitMqService.cs",
-              "RelativeToolTip": "Aula_RabbitMq\\Bus\\IRabbitMqService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Model\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_MassTransit\\Model\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Model\\Pessoa.cs",
+              "RelativeToolTip": "Aula_RabbitMq_MassTransit\\Model\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:02:13.71Z",
+              "WhenOpened": "2024-12-26T18:00:15.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Aula_RabbitMq.csproj",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq.csproj",
-              "RelativeDocumentMoniker": "Aula_RabbitMq\\Aula_RabbitMq.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq.csproj",
-              "RelativeToolTip": "Aula_RabbitMq\\Aula_RabbitMq.csproj",
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\f3ba468a-4e0f-4b9a-b6cd-4afda24780c0\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f3ba468a-4e0f-4b9a-b6cd-4afda24780c0\\secrets.json",
+              "ToolTip": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\f3ba468a-4e0f-4b9a-b6cd-4afda24780c0\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f3ba468a-4e0f-4b9a-b6cd-4afda24780c0\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T17:47:53.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aula_RabbitMq_lMassTransit_Consumer",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
+              "RelativeToolTip": "Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T18:00:14.233Z",
+              "WhenOpened": "2024-12-26T14:25:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\c9644189-f98f-4527-8185-32f01407adbb\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c9644189-f98f-4527-8185-32f01407adbb\\secrets.json",
+              "ToolTip": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\c9644189-f98f-4527-8185-32f01407adbb\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c9644189-f98f-4527-8185-32f01407adbb\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T16:27:03.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_lMassTransit_Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Program.cs",
+              "RelativeToolTip": "Aula_RabbitMq_lMassTransit_Consumer\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:38:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteRegistrado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Service\\ClienteRegistrado.cs",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_lMassTransit_Consumer\\Service\\ClienteRegistrado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Service\\ClienteRegistrado.cs",
+              "RelativeToolTip": "Aula_RabbitMq_lMassTransit_Consumer\\Service\\ClienteRegistrado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:29:37.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_MassTransit\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Program.cs",
+              "RelativeToolTip": "Aula_RabbitMq_MassTransit\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:32:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MassTransitBusService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Service\\MassTransitBusService.cs",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_MassTransit\\Service\\MassTransitBusService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Service\\MassTransitBusService.cs",
+              "RelativeToolTip": "Aula_RabbitMq_MassTransit\\Service\\MassTransitBusService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:32:10.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBusService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Service\\IBusService.cs",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_MassTransit\\Service\\IBusService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Service\\IBusService.cs",
+              "RelativeToolTip": "Aula_RabbitMq_MassTransit\\Service\\IBusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:30:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Aula_RabbitMq_MassTransit\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Aula_RabbitMq_MassTransit\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:29:39.731Z",
               "EditorCaption": ""
             }
           ]

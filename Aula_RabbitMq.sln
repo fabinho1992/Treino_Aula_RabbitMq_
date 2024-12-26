@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_RabbitMq", "Aula_RabbitMq\Aula_RabbitMq.csproj", "{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_RabbitMq", "Aula_RabbitMq\Aula_RabbitMq.csproj", "{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_RabbitMq_MassTransit", "Aula_RabbitMq_MassTransit\Aula_RabbitMq_MassTransit.csproj", "{89C13100-CB01-4A20-B033-99029DCFEEA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_RabbitMq_lMassTransit_Consumer", "Aula_RabbitMq_lMassTransit_Consumer\Aula_RabbitMq_lMassTransit_Consumer.csproj", "{5636C6E5-4002-491E-BC5B-F55F1A18F124}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26E2C4A-D29D-46FC-9DE2-CFD410981AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C13100-CB01-4A20-B033-99029DCFEEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C13100-CB01-4A20-B033-99029DCFEEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C13100-CB01-4A20-B033-99029DCFEEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C13100-CB01-4A20-B033-99029DCFEEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5636C6E5-4002-491E-BC5B-F55F1A18F124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5636C6E5-4002-491E-BC5B-F55F1A18F124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5636C6E5-4002-491E-BC5B-F55F1A18F124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5636C6E5-4002-491E-BC5B-F55F1A18F124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

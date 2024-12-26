@@ -1,0 +1,6 @@
+@Aula_RabbitMq_MassTransit_HostAddress = http://localhost:5206
+
+GET {{Aula_RabbitMq_MassTransit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
