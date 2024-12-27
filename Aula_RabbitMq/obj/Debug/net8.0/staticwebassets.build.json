@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "glVaFzFWinnNyzaBWfznKvE55YtAwv6bhSVo4DkXBgg=",
-  "Source": "Aula_RabbitMq",
-  "BasePath": "_content/Aula_RabbitMq",
+  "Hash": "n4yIOpdlTFlWBxwd9AuV7gChaLrM/Uv/bL/9xgQzQ9k=",
+  "Source": "Aula_RabbitMq_EasyNetQ",
+  "BasePath": "_content/Aula_RabbitMq_EasyNetQ",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

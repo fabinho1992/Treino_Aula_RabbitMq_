@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+ag1C5QDO4=",
+  "dgSpecHash": "pFEcXEicQKQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_EasyNetQ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\easynetq\\7.8.0\\easynetq.7.8.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

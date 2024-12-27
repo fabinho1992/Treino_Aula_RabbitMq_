@@ -622,9 +622,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq.csproj",
-      "projectName": "Aula_RabbitMq",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_EasyNetQ.csproj",
+      "projectName": "Aula_RabbitMq_EasyNetQ",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_EasyNetQ.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq\\obj\\",
       "projectStyle": "PackageReference",
