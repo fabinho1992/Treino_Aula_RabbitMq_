@@ -8,8 +8,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "command",
-        "Type": "E_Commerce_Shoes.Application.Commands.Usuarios.CreateUsuarioCommand",
+        "Name": "usuarioRequest",
+        "Type": "E_Commerce_Shoes.Dtos.UsuarioRequest",
         "IsRequired": true
       }
     ],

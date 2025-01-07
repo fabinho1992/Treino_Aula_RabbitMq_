@@ -4,8 +4,10 @@ using E_Commerce_Shoes.Infraestrutura;
 using E_Commerce_Shoes.Infraestrutura.Repositories;
 using E_Commerce_Shoes.Services;
 using MassTransit;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,32 +23,34 @@ builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<ICompraRepository, CompraRepository>();
 
 //MassTransit
-builder.Services.AddSingleton<IBusService, MassTransitBusService>();
+
 
 builder.Services.AddSingleton<IBusService>(provider =>
     new MassTransitBusService(provider.GetRequiredService<IBus>(), provider.GetRequiredService<IConfiguration>()));
 
+
 builder.Services.AddMassTransit(c =>
 {
-    c.AddConsumer<ClienteRegistrado>();
+
+    //c.AddConsumer<ClienteRegistrado>();
 
     c.UsingRabbitMq((context, config) =>
     {
-        config.ReceiveEndpoint("User_Created", e => // Use o nome da sua fila aqui
-        {
-            config.ConfigureEndpoints(context);
+        config.ConfigureEndpoints(context);
 
-            e.ConfigureConsumer<ClienteRegistrado>(context); // Configure o consumidor
-        });
+        //config.ReceiveEndpoint("User_Created", e => // Use o nome da sua fila aqui
+        //{
+        //    config.ConfigureEndpoints(context);
+
+        //    //e.ConfigureConsumer<ClienteRegistrado>(context); // Configure o consumidor
+        //});
     });
 });
 
-builder.Services.AddMassTransitHostedService();
-
 //CQRS Injection
-var myHandlers = AppDomain.CurrentDomain.Load("E_Commerce_Shoes");
-builder.Services.AddMediatR(config =>
-    config.RegisterServicesFromAssembly(myHandlers));
+//var myHandlers = AppDomain.CurrentDomain.Load("E_Commerce_Shoes");
+//builder.Services.AddMediatR(config =>
+//    config.RegisterServicesFromAssembly(myHandlers));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

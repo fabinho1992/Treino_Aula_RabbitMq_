@@ -1,9 +1,10 @@
 ﻿using Aula_RabbitMq.Model;
+using E_Commerce_Shoes.Models;
 using MassTransit;
 
 namespace Aula_RabbitMq_lMassTransit_Consumer.Service
 {
-    public class ClienteRegistrado : IConsumer<Pessoa>
+    public class ClienteRegistrado : IConsumer<Usuario>
     {
         public IServiceProvider ServiceProvider { get; }
 
@@ -12,12 +13,42 @@ namespace Aula_RabbitMq_lMassTransit_Consumer.Service
             ServiceProvider = serviceProvider;
         }
 
-        public async Task Consume(ConsumeContext<Pessoa> context)
+        public async Task Consume(ConsumeContext<Usuario> context)
         {
             var @event = context.Message;
-            Console.WriteLine($"Cliente {@event.Nome}, residente em {@event.Cidade} cadastrado");
+
+            if (@event.Cpf == "1234")
+            {
+                Console.WriteLine($"Cliente {@event.Nome}, com Cpf - {@event.Cpf}");
+            }
+            else
+            {
+                Console.WriteLine("cpf não encontrado");
+            }
+
+        }
+
+        public class CpfFilter : IFilter<ConsumeContext<Usuario>>
+        {
+
+            public async Task Send(ConsumeContext<Usuario> context, IPipe<ConsumeContext<Usuario>> next)
+            {
+                if (context.Message.Cpf == "1234")
+                {
+                    await next.Send(context);
+                }
+                else
+                {
+
+                }
+            }
 
 
+            public void Probe(ProbeContext context)
+            {
+                throw new NotImplementedException();
+            }
         }
     }
 }
+

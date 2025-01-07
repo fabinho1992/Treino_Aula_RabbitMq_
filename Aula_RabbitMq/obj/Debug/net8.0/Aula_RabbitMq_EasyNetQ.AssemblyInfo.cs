@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula_RabbitMq_EasyNetQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a28b6a1b88c1d6eec0a038ff58fd13e89c28c4a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9486d8de018863080b45fc20f065215262375901")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula_RabbitMq_EasyNetQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula_RabbitMq_EasyNetQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

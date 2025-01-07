@@ -1,5 +1,6 @@
 using Aula_RabbitMq_lMassTransit_Consumer.Service;
 using MassTransit;
+using static Aula_RabbitMq_lMassTransit_Consumer.Service.ClienteRegistrado;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,7 @@ builder.Services.AddMassTransit(c =>
         config.ReceiveEndpoint("User_Created", e => // Use o nome da sua fila aqui
         {
             e.ConfigureConsumer<ClienteRegistrado>(context); // Configure o consumidor
+            e.UseConsumeFilter<CpfFilter>(context);
         });
     });
 });

@@ -18,8 +18,10 @@ namespace Aula_RabbitMq_MassTransit.Service
 
         public async Task Publish<T>(T message)
         {
-            var endpoint = await _bus.GetSendEndpoint(new Uri($"rabbitmq://localhost/{_exchangeName}"));
+
+            var endpoint = await _bus.GetSendEndpoint(new Uri($"rabbitmq://localhost/{_queueName}"));
             await endpoint.Send(message);
+            Console.WriteLine(message);
         }
     }
 }

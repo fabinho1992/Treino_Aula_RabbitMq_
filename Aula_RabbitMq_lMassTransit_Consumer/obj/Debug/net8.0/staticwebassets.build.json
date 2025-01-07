@@ -1,15 +1,26 @@
 {
   "Version": 1,
-  "Hash": "omVfJOj9w5lvb84pVKNzwOEQlkC+iTtq/c9P0Cj5yIc=",
+  "Hash": "+DueyanwG+wlbY3V/5/6gyFabIg3ZEPEoZCAwtW76J0=",
   "Source": "Aula_RabbitMq_lMassTransit_Consumer",
   "BasePath": "_content/Aula_RabbitMq_lMassTransit_Consumer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj",
+      "Identity": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj",
       "Version": 2,
       "Source": "Aula_RabbitMq_MassTransit",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\E_Commerce_Shoes\\E_Commerce_Shoes.csproj",
+      "Version": 2,
+      "Source": "E_Commerce_Shoes",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",

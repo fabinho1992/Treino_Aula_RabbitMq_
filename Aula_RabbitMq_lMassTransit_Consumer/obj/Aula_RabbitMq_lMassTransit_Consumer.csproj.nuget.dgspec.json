@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj": {}
+    "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj": {
+    "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
+        "projectUniqueName": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
         "projectName": "Aula_RabbitMq_lMassTransit_Consumer",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_lMassTransit_Consumer\\obj\\",
+        "projectPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_lMassTransit_Consumer\\Aula_RabbitMq_lMassTransit_Consumer.csproj",
+        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
+        "outputPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_lMassTransit_Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj"
+              "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj": {
+                "projectPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj"
+              },
+              "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\E_Commerce_Shoes\\E_Commerce_Shoes.csproj": {
+                "projectPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\E_Commerce_Shoes\\E_Commerce_Shoes.csproj"
               }
             }
           }
@@ -48,7 +51,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -86,24 +90,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj": {
+    "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj",
+        "projectUniqueName": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj",
         "projectName": "Aula_RabbitMq_MassTransit",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Aulas_RabbitMq\\Aula_RabbitMq\\Aula_RabbitMq_MassTransit\\obj\\",
+        "projectPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_MassTransit\\Aula_RabbitMq_MassTransit.csproj",
+        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
+        "outputPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\Aula_RabbitMq_MassTransit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -130,7 +134,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -168,7 +173,114 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\E_Commerce_Shoes\\E_Commerce_Shoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\E_Commerce_Shoes\\E_Commerce_Shoes.csproj",
+        "projectName": "E_Commerce_Shoes",
+        "projectPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\E_Commerce_Shoes\\E_Commerce_Shoes.csproj",
+        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
+        "outputPath": "C:\\AulasAluraBackEnd\\RabbitMq\\Treino_Aula_RabbitMq_\\E_Commerce_Shoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.3.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

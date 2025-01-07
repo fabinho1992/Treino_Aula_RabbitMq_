@@ -1,4 +1,5 @@
-﻿using E_Commerce_Shoes.Models;
+﻿using Aula_RabbitMq_MassTransit.Service;
+using E_Commerce_Shoes.Models;
 using E_Commerce_Shoes.Services;
 using MassTransit;
 using MediatR;
@@ -8,12 +9,12 @@ namespace E_Commerce_Shoes.Application.Commands.Usuarios
     public class CreateUsuarioCommandHandler : IRequestHandler<CreateUsuarioCommand, Usuario>
     {
         private readonly IUsuarioRepository _repository;
-        private readonly IBus _bus;
+        
 
-        public CreateUsuarioCommandHandler(IUsuarioRepository repository, IBus bus)
+        public CreateUsuarioCommandHandler(IUsuarioRepository repository)
         {
             _repository = repository;
-            _bus = bus;
+            
         }
 
         public async Task<Usuario> Handle(CreateUsuarioCommand request, CancellationToken cancellationToken)
@@ -26,7 +27,7 @@ namespace E_Commerce_Shoes.Application.Commands.Usuarios
             };
 
             await _repository.Create(usuario);
-            await _bus.Publish(usuario);
+            //await _bus.Publish(usuario);    
 
             return usuario;
         }

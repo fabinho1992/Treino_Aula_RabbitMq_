@@ -4,7 +4,7 @@ using MassTransit;
 
 namespace Aula_RabbitMq_lMassTransit_Consumer.Service
 {
-    public class ClienteRegistrado : IConsumer<Usuario>
+    public class ClienteRegistrado : IConsumer<Usuario> 
     {
         public IServiceProvider ServiceProvider { get; }
 

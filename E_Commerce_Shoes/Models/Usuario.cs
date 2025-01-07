@@ -6,6 +6,6 @@
         public string Nome { get; set; }
         public string Cpf { get; set; }
         public DateTime DataNascimento { get; set; }
-        public List<Compra> Compras { get; set; }
+        public virtual List<Compra> Compras { get; set; }
     }
 }
